@@ -1,1 +1,1 @@
-from https://github.com/mrdbourke/simple-local-rag/tree/main
+Uses RAG to scan a collection of crypto whitepapers (~1100) to anwser questions about the innerworkings of cryptocurrencies.
