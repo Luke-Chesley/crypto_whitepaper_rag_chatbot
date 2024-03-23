@@ -1,0 +1,1 @@
+from https://github.com/mrdbourke/simple-local-rag/tree/main
